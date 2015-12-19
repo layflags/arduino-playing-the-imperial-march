@@ -2,7 +2,7 @@
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-While playing around with a piezo on my Arduino UNO I wanted it to play a nice song for me. So I googled the notes for [The Imperial March](https://en.wikipedia.org/wiki/The_Imperial_March) and finally found some useful data [here](http://processors.wiki.ti.com/index.php/Playing_The_Imperial_March). Afer quickly hacking some JavaScript using the awesome [Johnny-Five](http://johnny-five.io/) library I got it working :-)
+While playing around with a piezo on my Arduino UNO I wanted it to play a nice song for me. So I googled the notes for [The Imperial March](https://en.wikipedia.org/wiki/The_Imperial_March) and finally found some useful data [here](http://processors.wiki.ti.com/index.php/Playing_The_Imperial_March). After quickly hacking some JavaScript using the awesome [Johnny-Five](http://johnny-five.io/) library I got it working :-)
 
 ## What do you need?
 
