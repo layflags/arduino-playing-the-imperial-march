@@ -1,0 +1,30 @@
+{
+  "name": "arduino-playing-the-imperial-march",
+  "version": "1.0.0",
+  "description": "Playing The Imperial March on an Arduino UNO with a piezo connected to PIN ~3",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node --presets es2015 index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/layflags/arduino-playing-the-imperial-march.git"
+  },
+  "keywords": [
+    "arduino",
+    "the imperial march",
+    "johnny five",
+    "piezo"
+  ],
+  "author": "Lay Flags <code@layfla.gs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/layflags/arduino-playing-the-imperial-march/issues"
+  },
+  "homepage": "https://github.com/layflags/arduino-playing-the-imperial-march#readme",
+  "devDependencies": {
+    "babel-cli": "^6.3.17",
+    "babel-preset-es2015": "^6.3.13",
+    "johnny-five": "^0.9.17"
+  }
+}
