@@ -1,4 +1,4 @@
-# Arduino playing The Imperial March
+# Arduino playing The Imperial March with JS
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
